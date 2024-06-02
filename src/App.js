@@ -13,7 +13,6 @@ const App =()=> {
       <Sidebar />
       <main className='main'>
         <Home/>
-     
         <Services/>
         <Portfolio/>
         <Contact/>
